@@ -12,7 +12,7 @@ pip install twilio
 
 2. Next, clone this repo or download and extract the ZIP file:
 
-git clone https://github.com/yourusername/sms-sender.git
+git clone https://github.com/mabik11/smssnder.git
 
 3. Once you've cloned the repo or extracted the ZIP file, navigate to the directory where the program is located:
 
