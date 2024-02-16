@@ -16,7 +16,7 @@ git clone https://github.com/mabik11/smssnder.git
 
 3. Once you've cloned the repo or extracted the ZIP file, navigate to the directory where the program is located:
 
-cd sms-sender
+cd smssnder
 
 4. To run the program, create a text file named `credentials.txt` and add your Twilio API keys and target phone number in the following format:
 
