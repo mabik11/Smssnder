@@ -27,6 +27,6 @@ RECIPIENT_PHONE_NUMBER
 
 5. Finally, run the Python script to initiate the SMS sending process:
 
-python sms_sender.py
+python smssnder.py
 
 6. The program will prompt you to enter the message you want to send. Once you've entered the message and pressed ENTER, the SMS will be sent.
